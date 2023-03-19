@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "mi primer extension de chrome",
+    "version":"1.0",
+    "description":"esta es mi primera extension",
+    "icons":{
+        "128":"react.png"
+    },
+    "action":{
+        "default_popup":"popup.html"
+    }
+}
